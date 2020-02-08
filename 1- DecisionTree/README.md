@@ -7,7 +7,7 @@
 - 提交标准: gender_submission.csv  
   
 
-由于Kaggle涉及到科学上网的操作，所以可点击[原始数据集](https://github.com/ChemLez/ML-sklearn/tree/master/1-%20DecisionTree/titanic)下载。
+由于Kaggle涉及到科学上网的操作，可点击[原始数据集](https://github.com/ChemLez/ML-sklearn/tree/master/1-%20DecisionTree)在我的仓库中下载。
 # 二、数据处理
 首先导入训练集，查看数据的情况：  
 ```python
@@ -371,4 +371,5 @@ gender_submission.to_csv('/Users/liz/Code/jupyter-notebook/sklearn/1- DecisionTr
 
 ![得分](https://s2.ax1x.com/2020/02/09/1WxMnK.png)
 
-最终得分0.77990，分数不高，最高有得满分的，此篇只是作为机器学习及Kaggle的一个入门。
+最终得分0.77990。此篇只是作为机器学习及Kaggle的一个入门，完整的过一遍流程。
+
